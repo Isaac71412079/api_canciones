@@ -1,0 +1,324 @@
+{
+  "canciones": [
+    {
+      "Id": 1,
+      "Titulo": "Canción 1",
+      "Genero": "Pop",
+      "Interprete": "Artista 1",
+      "Album": "Álbum 1",
+      "Año": 2020
+    },
+    {
+      "Id": 2,
+      "Titulo": "Canción 2",
+      "Genero": "Rock",
+      "Interprete": "Artista 2",
+      "Album": "Álbum 2",
+      "Año": 2019
+    },
+    {
+      "Id": 3,
+      "Titulo": "Canción 3",
+      "Genero": "Hip-Hop",
+      "Interprete": "Artista 3",
+      "Album": "Álbum 3",
+      "Año": 2021
+    },
+    {
+      "Id": 4,
+      "Titulo": "Canción 4",
+      "Genero": "Electrónica",
+      "Interprete": "Artista 4",
+      "Album": "Álbum 4",
+      "Año": 2017
+    },
+    {
+      "Id": 5,
+      "Titulo": "Canción 5",
+      "Genero": "R&B",
+      "Interprete": "Artista 5",
+      "Album": "Álbum 5",
+      "Año": 2018
+    },
+    {
+      "Id": 6,
+      "Titulo": "Canción 6",
+      "Genero": "Indie",
+      "Interprete": "Artista 6",
+      "Album": "Álbum 6",
+      "Año": 2022
+    },
+    {
+      "Id": 7,
+      "Titulo": "Canción 7",
+      "Genero": "Reggae",
+      "Interprete": "Artista 7",
+      "Album": "Álbum 7",
+      "Año": 2016
+    },
+    {
+      "Id": 8,
+      "Titulo": "Canción 8",
+      "Genero": "Country",
+      "Interprete": "Artista 8",
+      "Album": "Álbum 8",
+      "Año": 2023
+    },
+    {
+      "Id": 9,
+      "Titulo": "Canción 9",
+      "Genero": "Soul",
+      "Interprete": "Artista 9",
+      "Album": "Álbum 9",
+      "Año": 2015
+    },
+    {
+      "Id": 10,
+      "Titulo": "Canción 10",
+      "Genero": "Pop",
+      "Interprete": "Artista 10",
+      "Album": "Álbum 10",
+      "Año": 2014
+    },
+    {
+      "Id": 11,
+      "Titulo": "Canción 11",
+      "Genero": "Rock",
+      "Interprete": "Artista 11",
+      "Album": "Álbum 11",
+      "Año": 2013
+    },
+    {
+      "Id": 12,
+      "Titulo": "Canción 12",
+      "Genero": "Electrónica",
+      "Interprete": "Artista 12",
+      "Album": "Álbum 12",
+      "Año": 2022
+    },
+    {
+      "Id": 13,
+      "Titulo": "Canción 13",
+      "Genero": "Pop",
+      "Interprete": "Artista 13",
+      "Album": "Álbum 13",
+      "Año": 2019
+    },
+    {
+      "Id": 14,
+      "Titulo": "Canción 14",
+      "Genero": "Jazz",
+      "Interprete": "Artista 14",
+      "Album": "Álbum 14",
+      "Año": 2018
+    },
+    {
+      "Id": 15,
+      "Titulo": "Canción 15",
+      "Genero": "Hip-Hop",
+      "Interprete": "Artista 15",
+      "Album": "Álbum 15",
+      "Año": 2020
+    },
+    {
+      "Id": 16,
+      "Titulo": "Canción 16",
+      "Genero": "R&B",
+      "Interprete": "Artista 16",
+      "Album": "Álbum 16",
+      "Año": 2021
+    },
+    {
+      "Id": 17,
+      "Titulo": "Canción 17",
+      "Genero": "Reggae",
+      "Interprete": "Artista 17",
+      "Album": "Álbum 17",
+      "Año": 2017
+    },
+    {
+      "Id": 18,
+      "Titulo": "Canción 18",
+      "Genero": "Country",
+      "Interprete": "Artista 18",
+      "Album": "Álbum 18",
+      "Año": 2016
+    },
+    {
+      "Id": 19,
+      "Titulo": "Canción 19",
+      "Genero": "Soul",
+      "Interprete": "Artista 19",
+      "Album": "Álbum 19",
+      "Año": 2015
+    },
+    {
+      "Id": 20,
+      "Titulo": "Canción 20",
+      "Genero": "Indie",
+      "Interprete": "Artista 20",
+      "Album": "Álbum 20",
+      "Año": 2014
+    },
+    {
+      "Id": 21,
+      "Titulo": "Canción 21",
+      "Genero": "Rock",
+      "Interprete": "Artista 21",
+      "Album": "Álbum 21",
+      "Año": 2022
+    },
+    {
+      "Id": 22,
+      "Titulo": "Canción 22",
+      "Genero": "Pop",
+      "Interprete": "Artista 22",
+      "Album": "Álbum 22",
+      "Año": 2019
+    },
+    {
+      "Id": 23,
+      "Titulo": "Canción 23",
+      "Genero": "Hip-Hop",
+      "Interprete": "Artista 23",
+      "Album": "Álbum 23",
+      "Año": 2018
+    },
+    {
+      "Id": 24,
+      "Titulo": "Canción 24",
+      "Genero": "Electrónica",
+      "Interprete": "Artista 24",
+      "Album": "Álbum 24",
+      "Año": 2021
+    },
+    {
+      "Id": 25,
+      "Titulo": "Canción 25",
+      "Genero": "Jazz",
+      "Interprete": "Artista 25",
+      "Album": "Álbum 25",
+      "Año": 2017
+    },
+    {
+      "Id": 26,
+      "Titulo": "Canción 26",
+      "Genero": "R&B",
+      "Interprete": "Artista 26",
+      "Album": "Álbum 26",
+      "Año": 2023
+    },
+    {
+      "Id": 27,
+      "Titulo": "Canción 27",
+      "Genero": "Reggae",
+      "Interprete": "Artista 27",
+      "Album": "Álbum 27",
+      "Año": 2016
+    },
+    {
+      "Id": 28,
+      "Titulo": "Canción 28",
+      "Genero": "Country",
+      "Interprete": "Artista 28",
+      "Album": "Álbum 28",
+      "Año": 2014
+    },
+    {
+      "Id": 29,
+      "Titulo": "Canción 29",
+      "Genero": "Soul",
+      "Interprete": "Artista 29",
+      "Album": "Álbum 29",
+      "Año": 2015
+    },
+    {
+      "Id": 30,
+      "Titulo": "Canción 30",
+      "Genero": "Indie",
+      "Interprete": "Artista 30",
+      "Album": "Álbum 30",
+      "Año": 2019
+    },
+    {
+      "Id": 31,
+      "Titulo": "Canción 31",
+      "Genero": "Pop",
+      "Interprete": "Artista 31",
+      "Album": "Álbum 31",
+      "Año": 2018
+    },
+    {
+      "Id": 32,
+      "Titulo": "Canción 32",
+      "Genero": "Rock",
+      "Interprete": "Artista 32",
+      "Album": "Álbum 32",
+      "Año": 2020
+    },
+    {
+      "Id": 33,
+      "Titulo": "Canción 33",
+      "Genero": "Hip-Hop",
+      "Interprete": "Artista 33",
+      "Album": "Álbum 33",
+      "Año": 2021
+    },
+    {
+      "Id": 34,
+      "Titulo": "Canción 34",
+      "Genero": "R&B",
+      "Interprete": "Artista 34",
+      "Album": "Álbum 34",
+      "Año": 2019
+    },
+    {
+      "Id": 35,
+      "Titulo": "Canción 35",
+      "Genero": "Reggae",
+      "Interprete": "Artista 35",
+      "Album": "Álbum 35",
+      "Año": 2018
+    },
+    {
+      "Id": 36,
+      "Titulo": "Canción 36",
+      "Genero": "Electrónica",
+      "Interprete": "Artista 36",
+      "Album": "Álbum 36",
+      "Año": 2017
+    },
+    {
+      "Id": 37,
+      "Titulo": "Canción 37",
+      "Genero": "Soul",
+      "Interprete": "Artista 37",
+      "Album": "Álbum 37",
+      "Año": 2022
+    },
+    {
+      "Id": 38,
+      "Titulo": "Canción 38",
+      "Genero": "Country",
+      "Interprete": "Artista 38",
+      "Album": "Álbum 38",
+      "Año": 2023
+    },
+    {
+      "Id": 39,
+      "Titulo": "Canción 39",
+      "Genero": "Indie",
+      "Interprete": "Artista 39",
+      "Album": "Álbum 39",
+      "Año": 2016
+    },
+    {
+      "Id": 40,
+      "Titulo": "Canción 40",
+      "Genero": "Jazz",
+      "Interprete": "Artista 40",
+      "Album": "Álbum 40",
+      "Año": 2015
+    }
+  ]
+}

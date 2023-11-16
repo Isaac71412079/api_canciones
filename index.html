@@ -1,0 +1,76 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Canciones</title>
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <header>
+    <img src="img/musica.png" height="60px" widht="60px"> API de Canciones <img src="img/nota-musical.png" height="60px" widht="60px">
+  </header>
+  
+  <div id="buscar">
+    <button id="refresh"><img src="img/actualizar.png" height="25px" widht="25px"></button>
+    <input type="text" id="searchInput" placeholder="Buscar...">
+    <button id="boton_buscar" onclick="buscarCanciones()"><img src="img/lupa.png" height="25px" widht="25px"></button>
+  </div>
+  <br>
+  <table id="canciones-table">
+    <thead>
+      <tr>
+        <th>Título</th>
+        <th>Género</th>
+        <th>Intérprete</th>
+        <th>Álbum</th>
+        <th>Año</th>
+        <th>Acciones</th>
+      </tr>
+    </thead>
+    <tbody id="canciones-body">
+    </tbody>
+  </table>
+  <br>
+  <button id="boton_anadir" onclick="mostrarFormulario()"><b>+ Añadir</b></button>
+  <div id="formulario" style="display: none;">
+    <h2>Añadir Nueva Canción</h2>
+    <label for="tituloInput">Título:</label>
+    <input type="text" id="tituloInput">
+    <label for="generoInput">Género:</label>
+    <input type="text" id="generoInput">
+    <label for="interpreteInput">Intérprete:</label>
+    <input type="text" id="interpreteInput">
+    <label for="albumInput">Álbum:</label>
+    <input type="text" id="albumInput">
+    <label for="añoInput">Año:</label>
+    <input type="number" id="añoInput">
+    <br><br>
+    <button id="save" onclick="agregarCancion()"><b>Guardar</b></button>
+    <br>
+    <br>
+  </div>
+  <br>
+  <script src="app.js"></script>
+  <br>
+  <footer>
+    <p>¡Gracias por Visitar!</p>
+    <ul class="redes-sociales">
+        <li>
+            <a href="https://es-la.facebook.com/" target="_blank"><img src="img/facebook.png" width="55" height="55"></a>
+        </li>
+        <li>
+            <a href="https://twitter.com/?lang=es" target="_blank"><img src="img/twitter.png" width="55" height="55"></a>
+        </li>
+        <li>
+            <a href="https://www.instagram.com/" target="_blank"><img src="img/instagram.png" width="55" height="55"></a>
+        </li>
+        <li>
+            <a href="https://www.whatsapp.com/" target="_blank"><img src="img/whatsapp.png" width="55" height="55"></a>
+        </li>
+    </ul>
+    <hr />
+    <p>UNIVERSIDAD: <br><br> Universidad Católica Boliviana de Cochabamba</p>
+  </footer>
+</body>
+</html>
